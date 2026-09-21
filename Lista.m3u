@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1,RetroToons Op 1
+https://live20.bozztv.com/akamaissh101/ssh101/retrotoons/chunks.m3u8
+#EXTINF:-1,RetroToons Op 2
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+#EXTINF:-1,Canal LMS | Mexico
+https://live20.bozztv.com/akamaissh101/ssh101/canallms/playlist.m3u8
+#EXTINF:-1,Locomotion 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Locomotion
+http://146.19.49.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1,LocomotionESP|ND
+https://live20.bozztv.com/akamaissh101/ssh101/myevent2025/chunks.m3u8
+#EXTINF:-1,XtremaTV
+https://vtm1.msinteractiva.com/multivoxretcartoon/multivoxretcartoon/playlist.m3u8?hls_ctx=14r87re4
+#EXTINF:-1,Best Clasicos TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+#EXTINF:-1,Cartoon Network
+https://ok.ru/videoembed/8896438738686?nochat=1
+#EXTINF:-1,Fox Kids
+https://ok.ru/videoembed/8967999463166?nochat=1
+#EXTINF:-1,Nick At Nite
+https://ok.ru/videoembed/9194603093758?nochat=1
+#EXTINF:-1,Cartoon Cartoon
+https://ok.ru/videoembed/10378284506878?nochat=1
+#EXTINF:-1,EnerGeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.m3u8?token=S3r3noTV
+#EXTINF:-1,Magic Kids TV Argentina
+https://183.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,Magic Kids OK
+https://kali.vdopanel.com:3007/stream/play.m3u8
+#EXTINF:-1,RetroMagico
+https://lbgo.bozztv.com/ssh101/ssh101/retromagicocnl/chunks.m3u8?lb_backend_hint=6
+#EXTINF:-1,Dreiko TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1,Anime StationV
+https://live20.bozztv.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8
+#EXTINF:-1,Retro TV HD
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+#EXTINF:-1,TV Retro Palmares
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1,TV Los Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1,Delmi Channel
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Pantalla Clásica EC
+https://lbgo.bozztv.com/ssh101/ssh101/pantallaclasics/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1,Sumaq TV
+https://lbgo.bozztv.com/ssh101/ssh101/makins/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1,Canal Retrox TV
+https://stream-retroxtv.site/live/ofertasplustv.m3u8
+#EXTINF:-1,Canal Retrox Plus
+https://live20.bozztv.com/akamaissh101/ssh101/erinaca/chunks.m3u8
+#EXTINF:-1,Mi Televisión Clásica
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+#EXTINF:-1,Tele Clásica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1,CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+#EXTINF:-1,Retro Plus
+https://scl.edge.grupoz.cl/retroplustvuno/live/chunklist_w1463797368.m3u8
+#EXTINF:-1,Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/chunks.m3u8
+#EXTINF:-1,Cuentos de la Cripta 24/7
+https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
+#EXTINF:-1,Tele Mas
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
